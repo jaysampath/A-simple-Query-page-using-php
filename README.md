@@ -7,4 +7,4 @@ This responsive web application is a form for basically asking queries to the se
 
 <h2>In action </h2>
 
-<p> see this application in action <a href=" http://jayasampathwebhosting-com.stackstaging.com/projects/query-page/ ">here </a></p>
+<p> see this application in action <a href="http://jayasampathwebhosting-com.stackstaging.com/projects/query-page/">here </a></p>
