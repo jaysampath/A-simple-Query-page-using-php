@@ -1,5 +1,5 @@
 # A-simple-Query-page-using-php
-This application is a form for basically asking queries to the server by providing user's details, subject and query content built using php.
+This responsive web application is a form for basically asking queries to the server by providing user's details, subject and query content built using php.
 
 <h2>Application</h2>
 
